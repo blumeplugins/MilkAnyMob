@@ -13,4 +13,11 @@ d37eae02-cd8e-4e9c-b9d3-313b59ce792f
 f634699c-443b-4a68-abe3-b8d382f5436d
 <!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:END -->
 
+# BlumeCore: MrRockis
+<!-- BLUMECORE-YOUTUBER:7odz0A1flUorIrLJACgk:START -->
+35f32889-ec53-4fc0-a079-98044d03beed
+61b6fded-b012-4a01-986a-e8b5267d52a4
+b2b1a36b-dc25-411e-81b3-ed2b4b89afda
+<!-- BLUMECORE-YOUTUBER:7odz0A1flUorIrLJACgk:END -->
+
 <!-- BLUMECORE-MANAGED-END -->
